@@ -1,3 +1,0 @@
-function showup() {
-    document.getElementById
-}
